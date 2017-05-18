@@ -2,10 +2,9 @@
 
 
 Environment
-
-1.Database Mongodb version v2.4.9
-2.Nodejs v6.10.2
-3.Npm v3.10.10
+1. Database Mongodb version v2.4.9
+2. Nodejs v6.10.2
+3. Npm v3.10.10
 
 Intall npm dependency sebelum memulai
 
