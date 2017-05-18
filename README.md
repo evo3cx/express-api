@@ -10,7 +10,7 @@ Intall npm dependency sebelum memulai
 
     npm install
 
-Ubah database config in app.js, baris 14
+Ubah database config in app.js sesuaikan dengan localhost anda pada baris 14.
 
     mongoose.connect('mongodb://localhost/test');
 
